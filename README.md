@@ -2,7 +2,7 @@
 
 This is a MA-level course in quantitative economics, data science, and causal inference in economics.
 
-### **Note: This is an *archived* version of the course. For the most ongoing term, see [here](https://github.com/ubcecon/ECON526).**
+### **Note: This is an *archived* version of the course. To find notes for the ongoing term, see [here](https://github.com/ubcecon/ECON526).**
 
 This course will have a combination of coding, theory, and development of mathematical background.  All coding is done in Python.
 
